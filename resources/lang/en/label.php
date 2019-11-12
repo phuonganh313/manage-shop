@@ -1,0 +1,35 @@
+<?php
+   return [
+       'save' => 'Save',
+       'updated' => 'Your settings were changed successfully',
+       'font' => 'Font',
+       'style' => 'Style',
+       'position' => 'Position',
+       'color' => 'Color',
+       'animation' => 'Animation',
+       'shape' => 'Shape',
+       'frequency' => 'Frequency',
+       'background_color' => 'Background color',
+       'upd_err' => 'Oops,something went wrong.',
+       'shop_not_found' => 'Shop with this domain can not be found in our database.',
+       'no_of_item' => 'No of items in shopping cart',
+       'alert_icon' => 'Alert icon',
+       'sound' => 'Sound',
+       'sound_effect' => 'Sound effect',
+       'repeat' => 'Repeat',
+       'tooltip_alert_icon' => 'The period of time for icon to appear when customers switch to another tab.',
+       'tooltip_sound_effect' => 'The sound is played when customers switch to another tab. Credit to http://www.freesfx.co.uk.',
+       'tooltip_repeat' => 'Times of playing the sound again.',
+       'tooltip_frequency' => 'The period of time to play the sound back.',
+       'second' => 'second(s)',
+       'once' => 'Once',
+       'twice' => 'Twice',
+       'thrice' => 'Thrice',
+       'Invalid_signature' => 'Invalid signature',
+       'lang' => [
+           'en' => 'English',
+       ],
+       'email_install_title' => 'Welcome to cartalerts',
+       'email_uninstall_title' => 'Uninstall cartalerts email'
+   ]
+?>
